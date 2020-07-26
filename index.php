@@ -156,8 +156,8 @@
                             </div>
                             <div class="about-text">
                                 <h3>‘Think & Grow Rich,’ Forex Trading is the New Avenue to Explore! </h3>
-                                <p><b>Introduction:</b> <br/>
-                                Following this philosophy to the core, <b>“Subhasish Sahoo”</b> <br/>envisions to promulgate Forex Trading Knowledge via courses like <br/> Forex Signals, Bank Trading Course, Account Management, etc. for people who are interested in trading.</p>
+                                <p><b>Introduction:</b>  
+                                Following this philosophy to the core, <b>“Subhasish Sahoo”</b>  envisions to promulgate Forex Trading Knowledge via courses like   Forex Signals, Bank Trading Course, Account Management, etc. for people who are interested in trading.</p>
                                 <p><b>Subhasish</b> is a professional <strong>Forex Trader</strong> and an expert in <strong>Fund Management</strong>. He finds helping people in learning about forex exciting and has turned this event into a successful business. His passion lies in investing. As an investor, he has created and maintained various portfolios which includes bootstrapping a start-up and early investments in cryptocurrency.</p>
                                 <p>On top of being an extrovert, I possess an inert ability to help people. I am passionate about meeting different people from different places. Travelling for me is like a salvation. I take inspiration from the places I have visited, and that’s why my journey inspires me a lot. 
                                 I deem myself a fitness enthusiast. I love to inculcate and follow a healthy lifestyle in order to enrich my personal and professional space with good thoughts. This has helped me stay on top of my game in terms of mental stability and overall work efficiency. I was able to connect with like-minded people because of this trait of mine.</p>
