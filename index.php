@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html lang="en">
 
 <head>
     <!-- metas -->
     <meta charset="utf-8">
-    <meta name="author" content="pxdraft">
+    <meta name="author" content="LittleGyaani">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="keywords" content="Sergio - Portfolio Template">
-    <meta name="description" content="Sergio - Portfolio Template">
+    <meta name="keywords" content="Forex Trader, Asset Management, Subhasish Sahoo">
+    <meta name="description" content="Subhasish Sahoo - Multi Millionaire Mind">
     <!-- title -->
     <title>Subhasish Sahoo - Multi Millionaire Mind</title>
     <!-- Favicon -->
