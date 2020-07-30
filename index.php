@@ -12,7 +12,7 @@
     <!-- title -->
     <title>Subhasish Sahoo - Multi Millionaire Mind</title>
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="https://i.pinimg.com/favicons/f7a3279a61cd602b1022aa70fc8ec237bca18c604d424368cf829cef.ico?5936ec4ed898fd2bbf858a68d04c8e10"/>
     <!-- plugin CSS -->
     <link href="static/plugin/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="static/plugin/font-awesome/css/all.min.css" rel="stylesheet">
