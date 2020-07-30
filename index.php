@@ -57,7 +57,7 @@
                     <div class="img">
                         <img src="static/img/about-me-intro.png" title="Subhasish Sahoo" alt="Subhasish Sahoo">
                     </div>
-                    <img src="static/img/ss-logo.png" title="Subhasish Sahoo" alt="Subhasish Sahoo"/>
+                    <img src="static/img/SS-logo.png" title="Subhasish Sahoo" alt="Subhasish Sahoo"/>
                 </div>
             </div>
             <ul class="nav nav-menu" id="pp-menu">
