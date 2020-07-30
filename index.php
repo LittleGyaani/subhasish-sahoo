@@ -55,7 +55,7 @@
             <div class="hl-top">
                 <div class="hl-logo">
                     <div class="img">
-                        <img src="static/img/about-me.jpg" title="" alt="">
+                        <img src="static/img/about-me-intro.png" title="" alt="">
                     </div>
                     <img src="static/img/ss-logo.png" title="" alt=""/>
                 </div>
@@ -122,13 +122,13 @@
                                 <p class="lead">the Forex Trader <span id="type-it"></span></p>
                                 <p class="desc">I have managed Account Funds worth <strong>$500,000</strong> along with imparting Forex and Cryptocurrency know-how amongst various people.</p>
                                 <div class="btn-bar">
-                                    <a class="px-btn px-btn-theme" href="#">Donwload Portfolio</a>
+                                    <a class="px-btn px-btn-theme" href="#">Download Profile</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="hb-img">
-                                <img src="static/img/home-banner.png" title="" alt="">
+                                <img src="static/img/home-banner.png" title="Subhasish Sahoo" alt="Subhasish Sahoo">
                             </div>
                         </div>
                     </div>
@@ -709,7 +709,7 @@
                                     </div>
                                     <div class="col-md-12">
                                         <div class="send">
-                                            <button class="px-btn px-btn-theme" onclick="send_mail()" type="button" value="Send"> send message</button>
+                                            <button class="px-btn px-btn-theme" onclick="send_mail()" type="button" value="Send"> Send Message</button>
                                         </div>
                                         <span id="suce_message" class="text-success" style="display: none">Message Sent Successfully</span>
                                         <span id="err_message" class="text-danger" style="display: none">Message Sending Failed</span>
