@@ -119,8 +119,12 @@
                             <div class="type-box">
                                 <h6>Hello, I am</h6>
                                 <h1 class="font-alt">Subhasish Sahoo</h1>
-                                <p class="lead">the Forex Trader <span id="type-it"></span></p>
+                                <p class="lead"><span id="type-it">the Forex Trader </span></p>
                                 <p class="desc">I have managed Account Funds worth <strong>$500,000</strong> along with imparting Forex and Cryptocurrency know-how amongst various people.</p>
+                                <br>
+                                <h4 class="font-alt px-btn-theme"><b><i>‘Think & Grow Rich’, Forex Trading is the New Avenue to Explore!</i></b></h4>
+                                <br>
+                                <p>Following this philosophy to the core, <b>“Subhasish Sahoo”</b> envisions to promulgate Forex Trading Knowledge via courses like Forex signals, bank trading course, account management, etc. for people who are interested in trading. Subhasish is a professional Forex trader and an expert in fund management. </p>
                                 <div class="btn-bar">
                                     <a class="px-btn px-btn-theme" href="#">Download Profile</a>
                                 </div>
@@ -155,17 +159,21 @@
                                 <h3>ABOUT ME</h3>
                             </div>
                             <div class="about-text">
-                                <h3>‘Think & Grow Rich,’ Forex Trading is the New Avenue to Explore! </h3>
                                 <p><b>Introduction:</b>  
-                                Following this philosophy to the core, <b>“Subhasish Sahoo”</b>  envisions to promulgate Forex Trading Knowledge via courses like   Forex Signals, Bank Trading Course, Account Management, etc. for people who are interested in trading.</p>
-                                <p><b>Subhasish</b> is a professional <strong>Forex Trader</strong> and an expert in <strong>Fund Management</strong>. He finds helping people in learning about forex exciting and has turned this event into a successful business. His passion lies in investing. As an investor, he has created and maintained various portfolios which includes bootstrapping a start-up and early investments in cryptocurrency.</p>
-                                <p>On top of being an extrovert, I possess an inert ability to help people. I am passionate about meeting different people from different places. Travelling for me is like a salvation. I take inspiration from the places I have visited, and that’s why my journey inspires me a lot. 
-                                I deem myself a fitness enthusiast. I love to inculcate and follow a healthy lifestyle in order to enrich my personal and professional space with good thoughts. This has helped me stay on top of my game in terms of mental stability and overall work efficiency. I was able to connect with like-minded people because of this trait of mine.</p>
+                                On top of being an extrovert, I possess an inert ability to help people. I am passionate about meeting different people from different places. Travelling for me is like a salvation. I take inspiration from the places I have visited, and that’s why my journey inspires me a lot. 
+                                I deem myself a fitness enthusiast. I love to inculcate and follow a healthy lifestyle in order to enrich my personal and professional space with good thoughts. This has helped me stay on top of my game in terms of mental stability and overall work efficiency. I was able to connect with like-minded people because of this trait of mine.
+                                </p>
+                                <p>
+                                Fitness has always helped me sculpt my inner-self. It plays a significant role in everyone’s life, beautifying their attributes and brings in confidence to battle with different aspects of the competitive environment. Through fitness, I aim to deliberately channelize the passion I possess and deliver it to the world by competing for Mr India. With the accomplishment in fitness, I intend to work towards mental peace and healthy living for commendable success in every walk of life.
+                                </p>
+                                <p>
+                                As I come from humble beginnings, my dream to achieve greatness was a muse for an opportunity to do something better. That’s why education for me was of utmost importance. I dedicatedly completed my B.Tech in Computer Science. I also joined a software company to pursue my career as a software engineer, yet I was never satisfied with the rat race. Inside politics was never meant for me, and so I decided to walk away from the corporate slavery. I left a cozy job and went on to follow my dreams of helping others succeed in securing their financial position in society. 
+                                </p>
                                 <div class="row">
                                     <div class="col-auto">
                                         <div class="media align-items-center">
                                             <span class="count">
-                                                5k
+                                                5k+
                                             </span>
                                             <div class="media-body">
                                                 Projects <br />Completed.
@@ -175,7 +183,7 @@
                                     <div class="col-auto">
                                         <div class="media align-items-center">
                                             <span class="count">
-                                                3k
+                                                3k+
                                             </span>
                                             <div class="media-body">
                                                 Satisfied <br />Clients.
@@ -193,34 +201,41 @@
                 </div>
                 <div class="separated"></div>
                 <div class="title">
-                    <h3>Education & Skills</h3>
+                    <h3>Services</h3>
                 </div>
                 <div class="row">
                     <div class="col-lg-4 m-15px-tb">
                         <ul class="aducation-box">
                             <li>
-                                <span>2010-2012</span>
-                                <h6>Graphic Designer</h6>
-                                <p>International Design Institute</p>
+                                <span>2010-2020</span>
+                                <h6>Forex Trader</h6>
+                                <p>Best Forex Trader Guru</p>
                             </li>
                             <li>
                                 <span>2010-2012</span>
-                                <h6>Web Development</h6>
-                                <p>International Design Institute</p>
+                                <h6>Forex Trading Training</h6>
+                                <p>Best Forex Trading Training</p>
                             </li>
                             <li>
                                 <span>2010-2012</span>
-                                <h6>Search Engine Optimization</h6>
-                                <p>International Design Institute</p>
+                                <h6>Forex Trading Analysis</h6>
+                                <p>Best Forex Trading Analysis</p>
                             </li>
                         </ul>
                     </div>
                     <div class="col-lg-7 ml-auto m-15px-tb">
                         <div class="skills-box">
-                            <h3>My skills</h3>
-                            <p>I'm a Freelancer Front-end Developer with over 3 years of experience. I code and create web elements for amazing people around the world. I like work with new people. New people new Experiences.</p>
+                            <h3>Distinguished Offerings:</h3>
+                            <p>
+                            <ul>
+                                <li>He delivers all types of forex trading courses, including Forex Signals, Bank Trading Course, Account Management, etc.</li>
+                                <li>Indulge into the exciting journey of forex trading via learning through the best videos, ebooks, and other study materials available.</li>
+                                <li>He caters to you with 80-90% accuracy in forex signal service and min 2000PIP/month. </li>
+                                <li>His courses cover all the fund management activities with a monthly profit of 5 to 20% on your capitals. </li>
+                            </ul>
+                            </p>
                             <div class="skill-lt">
-                                <h6>HTML5</h6>
+                                <h6>Forex Trading</h6>
                                 <div class="skill-bar">
                                     <div class="skill-bar-in" style="width: 92%;">
                                         <span data-toggle="tooltip" title="92%"></span>
@@ -228,26 +243,26 @@
                                 </div>
                             </div><!-- /skill -->
                             <div class="skill-lt">
-                                <h6>WordPress</h6>
+                                <h6>Forex Signal Courses</h6>
                                 <div class="skill-bar">
-                                    <div class="skill-bar-in" style="width: 72%;">
-                                        <span data-toggle="tooltip" title="72%"></span>
+                                    <div class="skill-bar-in" style="width: 92%;">
+                                        <span data-toggle="tooltip" title="92%"></span>
                                     </div>
                                 </div>
                             </div><!-- /skill -->
                             <div class="skill-lt">
-                                <h6>Magento</h6>
+                                <h6>GYM Freak</h6>
                                 <div class="skill-bar">
-                                    <div class="skill-bar-in" style="width: 86%;">
-                                        <span data-toggle="tooltip" title="86%"></span>
+                                    <div class="skill-bar-in" style="width: 98%;">
+                                        <span data-toggle="tooltip" title="98%"></span>
                                     </div>
                                 </div>
                             </div><!-- /skill -->
                             <div class="skill-lt">
-                                <h6>UI/UX</h6>
+                                <h6>Market Analysis</h6>
                                 <div class="skill-bar">
-                                    <div class="skill-bar-in" style="width: 88%;">
-                                        <span data-toggle="tooltip" title="88%"></span>
+                                    <div class="skill-bar-in" style="width: 98%;">
+                                        <span data-toggle="tooltip" title="98%"></span>
                                     </div>
                                 </div>
                             </div><!-- /skill -->
@@ -263,12 +278,12 @@
                         <div class="row">
                             <div class="col-sm-3 col-md-3 col-xl-2">
                                 <div class="rb-left">
-                                    <img src="static/img/a1.png" title="" alt="">
+                                    <img src="https://fxpay.io/images/ico-mirrortrading.png" title="" alt="">
                                 </div>
                             </div>
                             <div class="col-sm-9 col-md-9 col-xl-10">
                                 <div class="rb-right">
-                                    <h6>Front-end Developer</h6>
+                                    <h6>Forex Trading Signal Training</h6>
                                     <label>WeLab | Remote | Jan 2019 - Present</label>
                                     <div class="rb-time">Full Time</div>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.</p>
@@ -280,12 +295,12 @@
                         <div class="row">
                             <div class="col-sm-3 col-md-3 col-xl-2">
                                 <div class="rb-left">
-                                    <img src="static/img/a2.png" title="" alt="">
+                                    <img src="https://fxpay.io/images/ico-premuimbroker.png" title="" alt="">
                                 </div>
                             </div>
                             <div class="col-sm-9 col-md-9 col-xl-10">
                                 <div class="rb-right">
-                                    <h6>Front-end Developer</h6>
+                                    <h6>Asset Management Services</h6>
                                     <label>WeLab | Remote | Jan 2019 - Present</label>
                                     <div class="rb-time">Full Time</div>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.</p>
@@ -297,12 +312,12 @@
                         <div class="row">
                             <div class="col-sm-3 col-md-3 col-xl-2">
                                 <div class="rb-left">
-                                    <img src="static/img/a3.png" title="" alt="">
+                                    <img src="https://fxpay.io/images/ico-market.png" title="" alt="">
                                 </div>
                             </div>
                             <div class="col-sm-9 col-md-9 col-xl-10">
                                 <div class="rb-right">
-                                    <h6>Front-end Developer</h6>
+                                    <h6>Forex Trader</h6>
                                     <label>WeLab | Remote | Jan 2019 - Present</label>
                                     <div class="rb-time">Full Time</div>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.</p>
@@ -318,15 +333,15 @@
         <section id="services" data-nav-tooltip="Services" class="pp-section pp-scrollable section">
             <div class="container">
                 <div class="title">
-                    <h3>What I do?</h3>
+                    <h3>What I am passionate about?</h3>
                 </div>
                 <div class="row">
                     <div class="col-sm-6 m-15px-tb">
                         <div class="feature-box-01 media">
                             <i class="icon theme-bg icon-mobile"></i>
                             <div class="feature-content media-body">
-                                <h5>Web Design</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                <h5>Provide Forex Training</h5>
+                                <p>Deals with all types of forex trading courses, including Forex Signals, Bank Trading Course, Account Management, etc. I believe in catering to people with extensive training that helps enhance their trading skills and business virtue.</p>
                             </div>
                         </div>
                     </div>
@@ -334,44 +349,17 @@
                         <div class="feature-box-01 media">
                             <i class="icon theme-bg icon-desktop"></i>
                             <div class="feature-content media-body">
-                                <h5>Web Development</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                <h5>Promote a Healthy Lifestyle</h5>
+                                <p>As a fitness enthusiast, I always motivate people to enhance their health and make positive changes in their lifestyle. I aim to spread mental health awareness with my practices to ensure every individual's personal growth as well as the future one.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 m-15px-tb">
+                    <div class="col-sm-12 m-15px-tb">
                         <div class="feature-box-01 media">
                             <i class="icon theme-bg icon-target"></i>
                             <div class="feature-content media-body">
-                                <h5>SEO Marketing</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 m-15px-tb">
-                        <div class="feature-box-01 media">
-                            <i class="icon theme-bg icon-mobile"></i>
-                            <div class="feature-content media-body">
-                                <h5>Web Design</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 m-15px-tb">
-                        <div class="feature-box-01 media">
-                            <i class="icon theme-bg icon-desktop"></i>
-                            <div class="feature-content media-body">
-                                <h5>Web Development</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 m-15px-tb">
-                        <div class="feature-box-01 media">
-                            <i class="icon theme-bg icon-target"></i>
-                            <div class="feature-content media-body">
-                                <h5>SEO Marketing</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                <h5>Special Attention towards Traveling</h5>
+                                <p>I like travelling, and I suggest everyone to do the same. Not only does travelling brings peace to the mind, but it rejuvenates body and soul, which is suitable for the overall development of the personality one possesses. I am a strong advocate of getaways and work-trips.</p>
                             </div>
                         </div>
                     </div>
@@ -383,42 +371,42 @@
                 <div class="owl-carousel" data-items="2" data-nav-dots="true" data-md-items="2" data-sm-items="1" data-xs-items="1" data-xx-items="1" data-space="30" data-autoplay="true">
                     <div class="testimonial-01 media">
                         <div class="avatar">
-                            <img src="static/img/team-1.jpg" title="" alt="">
+                            <img src="https://www.vippng.com/png/detail/202-2026524_person-icon-default-user-icon-png.png" title="" alt="">
                         </div>
                         <div class="media-body">
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                            <h6>Jennifer Lutheran</h6>
-                            <span>CEO at pxdraft</span>
+                            <p>For your great support and mentor.  I really appreciate your kindness. I have made a small investment in forex, I was really nervous. Later on, in your guidance from the last 2 years I made huge profits. I just wanted to write to let you know how much I appreciate the positive influence you've had on my life. You inspired me during a difficult time when I needed words of encouragement. You don’t even know how much your help meant to me. Words cannot express how grateful I am for your help. You were there for me when I needed it the most.</p>
+                            <h6>Susri</h6>
+                            <span>Full-time Forex Trader</span>
                         </div>
                     </div>
                     <div class="testimonial-01 media">
                         <div class="avatar">
-                            <img src="static/img/team-2.jpg" title="" alt="">
+                            <img src="https://www.vippng.com/png/detail/202-2026524_person-icon-default-user-icon-png.png" title="" alt="">
                         </div>
                         <div class="media-body">
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                            <h6>Jennifer Lutheran</h6>
-                            <span>CEO at pxdraft</span>
+                            <p>I personally found Forex trade to be a wise investment of money. I got to know from one of my friends who has more than three years of experience in trading with Forex . In the beginning, it was a little tough to understand and get through the process as I was completely new into forex. Thanks to Subashish for making me understand and clarifying each and every doubt and providing all kinds of guidance and knowledge on forex. He is a very  talented and practical guy who shares  his trading experience.</p>
+                            <h6>Bijya</h6>
+                            <span>Full-time Forex Trader</span>
                         </div>
                     </div>
                     <div class="testimonial-01 media">
                         <div class="avatar">
-                            <img src="static/img/team-3.jpg" title="" alt="">
+                            <img src="https://www.vippng.com/png/detail/202-2026524_person-icon-default-user-icon-png.png" title="" alt="">
                         </div>
                         <div class="media-body">
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                            <h6>Jennifer Lutheran</h6>
-                            <span>CEO at pxdraft</span>
+                            <p>I am now working as a Banker in a Nationalised Bank ,but way back in 2015 I met Subhasish in a network marketing event at Bhubaneswar,since then we have been working in different network marketing companies and had also been successful but then due to some personal reasons I switched to job where I am now a Banker but Subhasish has always been wanted to been an entrepreneur so he never gave up n always tried to invest in diversified sector, recently from last 3 year he is being doing FOREX full time and being making good profit from it so I have also invested with him from last 10months he has been giving me good profit out of my investment every month ,I am very happy for him as well as for myself for choosing this profile after a gap of 2 years from network marketing and I have been making good money from last 10 months . Thanks to Subhasish for showing me the real Forex trading business.</p>
+                            <h6>Pradyamna</h6>
+                            <span>Banker & Forex Trader</span>
                         </div>
                     </div>
                     <div class="testimonial-01 media">
                         <div class="avatar">
-                            <img src="static/img/team-1.jpg" title="" alt="">
+                            <img src="https://www.vippng.com/png/detail/202-2026524_person-icon-default-user-icon-png.png" title="" alt="">
                         </div>
                         <div class="media-body">
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                            <h6>Jennifer Lutheran</h6>
-                            <span>CEO at pxdraft</span>
+                            <p>You are a good person & mentor too. You have helped me a lot. When I had nothing. You helped me a lot. I invested very little. After that I made a lot of profit When no one was helping me. You hoped that you taught me how to trade and then I made a profit. Right now I am making a very good income. Thanks a lot Subhasish sir... </p>
+                            <h6>Shweta</h6>
+                            <span>Part-time Forex Trader</span>
                         </div>
                     </div>
                 </div>
@@ -426,7 +414,7 @@
         </section>
         <!-- End Services -->
         <!-- Portfolio -->
-        <section id="work" data-nav-tooltip="Work" class="pp-section pp-scrollable section dark-bg">
+        <!-- <section id="work" data-nav-tooltip="Work" class="pp-section pp-scrollable section dark-bg">
             <div class="container">
                 <div class="title">
                     <h3>My Portfolio.</h3>
@@ -439,8 +427,9 @@
                         <li data-filter=".fashion">Fashion</li>
                         <li data-filter=".product">Product</li>
                     </ul>
-                </div> <!-- Portfolio Filter -->
-                <div class="portfolio-content grid-gutter-lg grid-col-3 lightbox-gallery">
+                </div> 
+                <!-- Portfolio Filter -->
+                <!-- <div class="portfolio-content grid-gutter-lg grid-col-3 lightbox-gallery">
                     <div class="grid-item product branding fashion">
                         <div class="portfolio-box-01">
                             <div class="portfolio-info">
@@ -456,8 +445,9 @@
                                 </div>
                             </div>
                         </div>
-                    </div> <!-- grid item -->
-                    <div class="grid-item photoshop">
+                    </div> -->
+                     <!-- grid item -->
+                    <!-- <div class="grid-item photoshop">
                         <div class="portfolio-box-01">
                             <div class="portfolio-info">
                                 <h5 class="white-color font-weight-bold">Momb ios App</h5>
@@ -472,8 +462,9 @@
                                 </div>
                             </div>
                         </div>
-                    </div> <!-- grid item -->
-                    <div class="grid-item product branding">
+                    </div>  -->
+                    <!-- grid item -->
+                    <!-- <div class="grid-item product branding">
                         <div class="portfolio-box-01">
                             <div class="portfolio-info">
                                 <h5 class="white-color font-weight-bold">Momb ios App</h5>
@@ -488,8 +479,9 @@
                                 </div>
                             </div>
                         </div>
-                    </div> <!-- grid item -->
-                    <div class="grid-item product photoshop">
+                    </div>  -->
+                    <!-- grid item -->
+                    <!-- <div class="grid-item product photoshop">
                         <div class="portfolio-box-01">
                             <div class="portfolio-info">
                                 <h5 class="white-color font-weight-bold">Momb ios App</h5>
@@ -504,8 +496,9 @@
                                 </div>
                             </div>
                         </div>
-                    </div> <!-- grid item -->
-                    <div class="grid-item branding">
+                    </div>  -->
+                    <!-- grid item -->
+                    <!-- <div class="grid-item branding">
                         <div class="portfolio-box-01">
                             <div class="portfolio-info">
                                 <h5 class="white-color font-weight-bold">Momb ios App</h5>
@@ -520,8 +513,9 @@
                                 </div>
                             </div>
                         </div>
-                    </div> <!-- grid item -->
-                    <div class="grid-item product photoshop">
+                    </div>  -->
+                    <!-- grid item -->
+                    <!-- <div class="grid-item product photoshop">
                         <div class="portfolio-box-01">
                             <div class="portfolio-info">
                                 <h5 class="white-color font-weight-bold">Momb ios App</h5>
@@ -536,8 +530,9 @@
                                 </div>
                             </div>
                         </div>
-                    </div> <!-- grid item -->
-                    <div class="grid-item fashion">
+                    </div>  -->
+                    <!-- grid item -->
+                    <!-- <div class="grid-item fashion">
                         <div class="portfolio-box-01">
                             <div class="portfolio-info">
                                 <h5 class="white-color font-weight-bold">Momb ios App</h5>
@@ -552,8 +547,9 @@
                                 </div>
                             </div>
                         </div>
-                    </div> <!-- grid item -->
-                    <div class="grid-item product branding">
+                    </div>  -->
+                    <!-- grid item -->
+                    <!-- <div class="grid-item product branding">
                         <div class="portfolio-box-01">
                             <div class="portfolio-info">
                                 <h5 class="white-color font-weight-bold">Momb ios App</h5>
@@ -568,8 +564,9 @@
                                 </div>
                             </div>
                         </div>
-                    </div> <!-- grid item -->
-                    <div class="grid-item fashion">
+                    </div>  -->
+                    <!-- grid item -->
+                    <!-- <div class="grid-item fashion">
                         <div class="portfolio-box-01">
                             <div class="portfolio-info">
                                 <h5 class="white-color font-weight-bold">Momb ios App</h5>
@@ -584,13 +581,14 @@
                                 </div>
                             </div>
                         </div>
-                    </div> <!-- grid item -->
-                </div>
+                    </div>  -->
+                    <!-- grid item -->
+                <!-- </div>
             </div>
-        </section>
+        </section> -->
         <!-- End Portfolio -->
         <!-- Blog -->
-        <section id="blog" data-nav-tooltip="Blog" class="pp-section pp-scrollable section">
+       <!-- <section id="blog" data-nav-tooltip="Blog" class="pp-section pp-scrollable section">
             <div class="container">
                 <div class="title">
                     <h3>Latest Blog.</h3>
@@ -653,7 +651,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- End Blog -->
         <!-- Contact us -->
         <section id="contactus" data-nav-tooltip="Contact Me" class="pp-section pp-scrollable section dark-bg">
@@ -664,20 +662,20 @@
                 <div class="row">
                     <div class="col-lg-5 col-xl-4 m-15px-tb">
                         <div class="contact-info">
-                            <h4>What’s your story? Get in touch</h4>
-                            <p>Always available for freelancing if the right project comes along, Feel free to contact me.</p>
+                            <h4>What’s your passion? Get in touch</h4>
+                            <p>Feel free to contact me.</p>
                             <ul>
                                 <li class="media">
                                     <i class="ti-map"></i>
-                                    <span class="media-body">123 Stree New York City , United States Of America 750065.</span>
+                                    <span class="media-body">India</span>
                                 </li>
                                 <li class="media">
                                     <i class="ti-email"></i>
-                                    <span class="media-body">support@domain.com</span>
+                                    <span class="media-body">support@subhasishsahoo.com</span>
                                 </li>
                                 <li class="media">
                                     <i class="ti-mobile"></i>
-                                    <span class="media-body">+044 9696 9696 3636</span>
+                                    <span class="media-body">+91 XXX XXX XXXX</span>
                                 </li>
                             </ul>
                         </div>
@@ -721,7 +719,7 @@
                     <div class="col-12">
                         <div class="google-map">
                             <div class="embed-responsive embed-responsive-21by9">
-                                <iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3151.840107317064!2d144.955925!3d-37.817214!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb6899234e561db11!2sEnvato!5e0!3m2!1sen!2sin!4v1520156366883" allowfullscreen=""></iframe>
+                                <iframe class="embed-responsive-item" src="https://www.google.com/maps/place/India/@20.7707739,73.7217954,5z/data=!3m1!4b1!4m5!3m4!1s0x30635ff06b92b791:0xd78c4fa1854213a6!8m2!3d20.593684!4d78.96288" allowfullscreen="yes"></iframe>
                             </div>
                         </div>
                     </div>

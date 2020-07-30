@@ -2,8 +2,8 @@
     "use strict";
     var NAY = {};
     var path = window.location.href;
-    var plugin_track = path + 'static/plugin/';
-    console.log(plugin_track);
+    var plugin_track = path.split('#')[0] + 'static/plugin/';
+    // console.log(plugin_track);
     $.fn.exists = function() {
         return this.length > 0;
     };
