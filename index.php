@@ -37,8 +37,8 @@
     <div class="mob-header">
         <div class="d-flex">
             <div class="navbar-brand">
-                <a class="logo-text" href="index.html">
-                    Sergio
+                <a class="logo-text" href="./">
+                    Subhasish Sahoo
                 </a>
             </div>
             <button class="toggler-menu">
@@ -55,9 +55,9 @@
             <div class="hl-top">
                 <div class="hl-logo">
                     <div class="img">
-                        <img src="static/img/about-me-intro.png" title="" alt="">
+                        <img src="static/img/about-me-intro.png" title="Subhasish Sahoo" alt="Subhasish Sahoo">
                     </div>
-                    <img src="static/img/ss-logo.png" title="" alt=""/>
+                    <img src="static/img/ss-logo.png" title="Subhasish Sahoo" alt="Subhasish Sahoo"/>
                 </div>
             </div>
             <ul class="nav nav-menu" id="pp-menu">
