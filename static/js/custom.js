@@ -261,7 +261,7 @@
      * Got to Top
     /* ---------------------------------------------- */
     NAY.Demo = function() {
-        $("body").append("<label class='color_switch'><i class='fas fa-moon'></i></label><a class='demo-back-link' href='#home' onclick='goToTop();'><i class='fas fa-arrow-up'></i></a>");
+        $("body").append("<label class='color_switch'><i class='fas fa-moon'></i></label><a class='demo-back-link' href='#home'><i class='fas fa-arrow-up'></i></a>");
         $(".color_switch").click(function(){
             $(this).toggleClass('m-toggle-toggle');
             $('body').toggleClass('theme-light');
