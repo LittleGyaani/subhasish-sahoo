@@ -18,16 +18,16 @@
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="https://i.pinimg.com/favicons/f7a3279a61cd602b1022aa70fc8ec237bca18c604d424368cf829cef.ico?5936ec4ed898fd2bbf858a68d04c8e10"/>
     <!-- plugin CSS -->
-    <link href="static/plugin/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="static/plugin/font-awesome/css/all.min.css" rel="stylesheet">
-    <link href="static/plugin/et-line/style.css" rel="stylesheet">
-    <link href="static/plugin/themify-icons/themify-icons.css" rel="stylesheet">
-    <link href="static/plugin/owl-carousel/css/owl.carousel.min.css" rel="stylesheet">
-    <link href="static/plugin/magnific/magnific-popup.css" rel="stylesheet">
-    <link href="static/plugin/scroll/jquery.mCustomScrollbar.min.css" rel="stylesheet">
-    <link href="static/plugin/pagepiling/jquery.pagepiling.min.css" rel="stylesheet">
+    <link href="static/plugin/bootstrap/css/bootstrap.min.css?v=4.2.1" rel="stylesheet">
+    <link href="static/plugin/font-awesome/css/all.min.css?v=1.0.0" rel="stylesheet">
+    <link href="static/plugin/et-line/style.css?v=1.0.0" rel="stylesheet">
+    <link href="static/plugin/themify-icons/themify-icons.css?v=1.0.0" rel="stylesheet">
+    <link href="static/plugin/owl-carousel/css/owl.carousel.min.css?v=1.0.0" rel="stylesheet">
+    <link href="static/plugin/magnific/magnific-popup.css?v=1.0.0" rel="stylesheet">
+    <link href="static/plugin/scroll/jquery.mCustomScrollbar.min.css?v=1.0.0" rel="stylesheet">
+    <link href="static/plugin/pagepiling/jquery.pagepiling.min.css?v=1.0.0" rel="stylesheet">
     <!-- theme css -->
-    <link href="static/css/style.css" rel="stylesheet">
+    <link href="static/css/style.css?v=1.0.0" rel="stylesheet">
 </head>
 <!-- Body Start -->
 
@@ -762,21 +762,21 @@
     </main>
     <!-- End Main -->
     <!-- jquery -->
-    <script src="static/js/jquery-3.2.1.min.js"></script>
-    <script src="static/js/jquery-migrate-3.0.0.min.js"></script>
+    <script src="static/js/jquery-3.2.1.min.js?v=3.2.1"></script>
+    <script src="static/js/jquery-migrate-3.0.0.min.js?v=3.0.0"></script>
     <!-- end jquery -->
     <!-- appear -->
-    <script src="static/plugin/appear/jquery.appear.js"></script>
+    <script src="static/plugin/appear/jquery.appear.js?v=1.0.0"></script>
     <!-- end appear -->
     <!--bootstrap-->
-    <script src="static/plugin/bootstrap/js/popper.min.js"></script>
-    <script src="static/plugin/bootstrap/js/bootstrap.js"></script>
+    <script src="static/plugin/bootstrap/js/popper.min.js?v=1.0.0"></script>
+    <script src="static/plugin/bootstrap/js/bootstrap.js?v=1.0.0"></script>
     <!--end bootstrap-->
-    <script src="static/plugin/pagepiling/jquery.pagepiling.min.js"></script>
+    <script src="static/plugin/pagepiling/jquery.pagepiling.min.js?v=1.0.0"></script>
     <!-- End -->
     <!-- custom js -->
-    <script src="static/js/custom.js"></script>
-    <script src="static/js/mail_send.js"></script>
+    <script src="static/js/custom.js?v=1.0.0"></script>
+    <script src="static/js/mail_send.js?v=1.0.0"></script>
     <!-- end -->
 </body>
 <!-- Body End -->
