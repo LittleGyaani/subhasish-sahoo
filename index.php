@@ -11,8 +11,20 @@
     <meta name="author" content="LittleGyaani">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="keywords" content="Forex Trader, Asset Management, Subhasish Sahoo">
-    <meta name="description" content="Subhasish Sahoo - Multi Millionaire Mind">
+    <meta name="keywords" content="Forex Trader, Asset Management, Subhasish Sahoo, subhasishsahoo.com, Multi Millionaire Mind">
+    <meta name="description" content="Subhasish is a professional Forex trader and an expert in fund management.">
+    <!-- Facebook & Google + -->
+    <meta property="og:title" content="Subhasish Sahoo - Multi Millionaire Mind">
+    <meta property="og:description" content="Subhasish is a professional Forex trader and an expert in fund management.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="subhasishsahoo.com">
+    <meta property="og:image" content="static/img/ss-logo.png">
+    <meta property="og:locale" content="en">
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:title" content="Subhasish Sahoo - Multi Millionaire Mind">
+    <meta name="twitter:description" content="Subhasish is a professional Forex trader and an expert in fund management.">
+    <meta name="twitter:image" content="static/img/ss-logo.png"
     <!-- title -->
     <title>Subhasish Sahoo - Multi Millionaire Mind</title>
     <!-- Favicon -->
