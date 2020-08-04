@@ -217,7 +217,7 @@
                                 <p>Best Forex Trading Analysis</p>
                             </li>
                             <li>
-                                <span>2018-2012</span>
+                                <span>2018-2020</span>
                                 <h6>Forex Trading Training</h6>
                                 <p>Best Forex Trading Training</p>
                             </li>
