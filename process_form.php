@@ -52,7 +52,7 @@ $mail->From = "$sender_email";
 $mail->FromName = "$sender_name";
 
 //To address and name
-$mail->addAddress("$sender_email", "$sender_name");
+$mail->addAddress("contact@subhasishsahoo.com", "SUBHASISH SAHOO CONTACT CENTER");
 // $mail->addAddress("recepient1@example.com"); //Recipient name is optional
 
 //Address to which recipient will reply
