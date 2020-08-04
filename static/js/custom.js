@@ -1,5 +1,11 @@
 (function($) {
     "use strict";
+    //First Console Message to Stucker
+    if (typeof console != "undefined") {
+        console.log("Subhasish Sahoo : Multi Millionaire Mind - Official Website. (c) 2020 Subhasish Sahoo.");
+        console.log("Hello Stucker! Thank you for digging-in 😜. This is Little Gyaani 😎, developer of this Portal. Want to hire me!");
+        console.log("Connect with me : BRAHMA | P/WA : 9853 233 951 | E : bmohanty@live.com | W : www.meetlittlegyaani.com | twitter.com/LittleGyaani | facebook.com/brahmanmohanty | linkedin.com/in/brahmanmohanty");
+    }
     var NAY = {};
     var path = window.location.href;
     var plugin_track = path.split('#')[0] + 'static/plugin/';

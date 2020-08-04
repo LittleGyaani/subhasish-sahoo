@@ -2,6 +2,10 @@
 <html lang="en">
 
 <head>
+    <!-- Meta updated by Little Gyaani (BRAHMA) 
+    https://wa.me/919853233951?text=I got your Contact from Subhasish Sahoo - Multi Millionaire Mind Official Website
+    {L - https://www.linkedin.com/in/brahmanmohanty G - https://www.github.com/LittleGyaani T - https://www.twitter.com/LittleGyaani F - https://www.facebook.com/brahmanmohanty} W - https://www.meetlittlegyaani.com/ E - bmohanty@live.com P/WA - +91 9853 233 951 
+    -->
     <!-- metas -->
     <meta charset="utf-8">
     <meta name="author" content="LittleGyaani">
