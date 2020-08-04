@@ -543,9 +543,9 @@
                                 <span>Tour</span>
                             </div>
                             <div class="portfolio-img">
-                                <img src="static/img/gallery/Gallery-8.jpg" title="" alt="">
+                                <img src="static/img/gallery/Gallery-9.jpg" title="" alt="">
                                 <div class="portfolio-icon">
-                                    <a href="static/img/gallery/Gallery-8.jpg" class="Gallery-link">
+                                    <a href="static/img/gallery/Gallery-9.jpg" class="Gallery-link">
                                         <span class="ti-plus"></span>
                                     </a>
                                 </div>
