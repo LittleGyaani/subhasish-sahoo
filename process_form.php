@@ -7,9 +7,9 @@ use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
 //Include phpMailer Library
-include 'static/plugin/phpMailer/PHPMailer.php'; 
-include 'static/plugin/phpMailer/SMTP.php'; 
-include 'static/plugin/phpMailer/Exception.php'; 
+require 'static/plugin/phpMailer/PHPMailer.php'; 
+require 'static/plugin/phpMailer/SMTP.php'; 
+require 'static/plugin/phpMailer/Exception.php'; 
 
 //Mail Send
 
@@ -24,16 +24,17 @@ $sender_message = $_POST['message'];
 $mail = new PHPMailer(true); //Argument true in constructor enables exceptions
 
 //Enable SMTP debugging.
-$mail->SMTPDebug = SMTP::DEBUG_SERVER;                               
+$mail->SMTPDebug = SMTP::DEBUG_CONNECTION;                               
 //Set PHPMailer to use SMTP.
 $mail->isSMTP();            
 //Set SMTP host name                          
-$mail->Host = "subhasishsahoo.com";
+$mail->Host = "mail.subhasishsahoo.com";
 //Set this to true if SMTP host requires authentication to send email
 $mail->SMTPAuth = true;                          
 //Provide username and password     
-$mail->Username = "support@subhasishsahoo.com";                 
+$mail->Username = "contact@subhasishsahoo.com";                 
 $mail->Password = "Ck6r^0v8";                           
+$mail->SMTPAutoTLS = false;
 // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` encouraged
 $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;         
 //Set TCP port to connect to
