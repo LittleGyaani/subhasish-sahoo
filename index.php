@@ -101,8 +101,8 @@
                         <span>Gallery</span>
                     </a>
                 </li>
-                <li data-menuanchor="contactus">
-                    <a class="nav-link" href="#contactus">
+                <li data-menuanchor="contactme">
+                    <a class="nav-link" href="#contactme">
                         <i class="ti-map-alt"></i>
                         <span>Contact Me</span>
                     </a>
@@ -111,9 +111,7 @@
         </div>
         <div class="nav justify-content-center social-icons">
             <a href="https://www.facebook.com/subhasish.sahoo.14" target="_blank"><i class="fab fa-facebook-f"></i></a>
-            <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>
             <a href="https://instagram.com/subhasish01" target="_blank"><i class="fab fa-instagram"></i></a>
-            <a href="#"><i class="fab fa-linkedin-in" target="_blank"></i></a>
             <a href="https://t.me/joinchat/AAAAAEjAJwUb7_4JkWR11A" target="_blank"><i class="fab fa-telegram"></i></a>
         </div>
     </header>
@@ -199,8 +197,8 @@
                                     </div>
                                 </div>
                                 <div class="btn-bar">
-                                    <a class="px-btn px-btn-theme" href="#"><span>Contact Me</span></a>
-                                    <a class="px-btn px-btn-theme" href="#"><span>Download Profile</span></a>
+                                    <a class="px-btn px-btn-theme" href="#contactme"><span>Contact Me</span></a>
+                                    <!-- <a class="px-btn px-btn-theme" href="#"><span>Download Profile</span></a> -->
                                 </div>
                             </div>
                         </div>
@@ -214,19 +212,19 @@
                     <div class="col-lg-4 m-15px-tb">
                         <ul class="aducation-box">
                             <li>
-                                <span>2010-2020</span>
-                                <h6>Forex Trader</h6>
-                                <p>Best Forex Trader Guru</p>
+                                <span>2019-2020</span>
+                                <h6>Forex Trading Analysis</h6>
+                                <p>Best Forex Trading Analysis</p>
                             </li>
                             <li>
-                                <span>2010-2012</span>
+                                <span>2018-2012</span>
                                 <h6>Forex Trading Training</h6>
                                 <p>Best Forex Trading Training</p>
                             </li>
                             <li>
-                                <span>2010-2012</span>
-                                <h6>Forex Trading Analysis</h6>
-                                <p>Best Forex Trading Analysis</p>
+                                <span>2017-2020</span>
+                                <h6>Forex Trader</h6>
+                                <p>Best Forex Trader Guru</p>
                             </li>
                         </ul>
                     </div>
@@ -308,7 +306,7 @@
                             <div class="col-sm-9 col-md-9 col-xl-10">
                                 <div class="rb-right">
                                     <h6>Asset Management Services</h6>
-                                    <label>AssetMGMT | Remote | Jan 2019 - Present</label>
+                                    <label>AssetMGMT | Remote | Jan 2018 - Present</label>
                                     <div class="rb-time">Full Time</div>
                                     <p>Initially, Subhasish invested in smaller sums, where he kept losing money. This didn’t falter his zeal to invest more and sustain losses. He then realized that relevant knowledge is necessary to survive in the forex trading market. “As we all know knowledge is power, I deduced the challenge in my trading practices and took corrective measures,” says Subhasish. This time when he invested with a more significant amount, heaven’s divine power was with him, and he secured a considerable amount of profit.</p>
                                 </div>
@@ -325,7 +323,7 @@
                             <div class="col-sm-9 col-md-9 col-xl-10">
                                 <div class="rb-right">
                                     <h6>Forex Trader</h6>
-                                    <label>FXTrade | Remote | Jan 2019 - Present</label>
+                                    <label>FXTrade | Remote | Jan 2017 - Present</label>
                                     <div class="rb-time">Full Time</div>
                                     <p>In three months, Subhasish gained $700 of profit with zero risks, and that’s where his paths changed towards becoming a prominent name in the Forex trading market. He shifted to Bangkok in 2018 to accomplish his desired milestones, and then his career endeavours started in 2019 with a huge profit mark-up of $200,000.</p>
                                 </div>
@@ -430,7 +428,6 @@
                     <ul class="filter nav">
                         <li class="active" data-filter="*">All</li>
                         <li data-filter=".gym">Gym</li>
-                        <li data-filter=".travel">Travel</li>
                         <li data-filter=".business">Business Tours</li>
                         <li data-filter=".vacations">Vacations</li>
                     </ul>
@@ -695,7 +692,7 @@
         </section> -->
         <!-- End Blog -->
         <!-- Contact us -->
-        <section id="contactus" data-nav-tooltip="Contact Me" class="pp-section pp-scrollable section dark-bg">
+        <section id="contactme" data-nav-tooltip="Contact Me" class="pp-section pp-scrollable section dark-bg">
             <div class="container">
                 <div class="title">
                     <h3>Get in touch.</h3>
@@ -712,7 +709,7 @@
                                 </li>
                                 <li class="media">
                                     <i class="ti-email"></i>
-                                    <span class="media-body"> support@subhasishsahoo.com</span>
+                                    <span class="media-body"> contact@subhasishsahoo.com</span>
                                 </li>
                                 <li class="media">
                                     <i class="ti-mobile"></i>
@@ -765,7 +762,7 @@
                         </div>
                         <br/>
                         <br/>
-                        <center><p style="align:center;">Copyright &copy; <?php echo date('Y'); ?> <strong>Subhasish Sahoo - Multi Millionaire Mind</strong>. Drafted with <i class="fa fa-heart" style="color: #ff0000;"></i> by <a href="https://www.drafticode.com/" title="Drafticode" target="_blank">Drafticode</a></p></center>
+                        <center><p style="align:center;">Copyright &copy; 2017 - <?php echo date('y'); ?> <strong>Subhasish Sahoo - Multi Millionaire Mind</strong>. Drafted with <i class="fa fa-heart" style="color: #ff0000;"></i> by <a href="https://www.drafticode.com/" title="Drafticode" target="_blank">Drafticode</a></p></center>
                     </div>
                 </div>
             </div>
