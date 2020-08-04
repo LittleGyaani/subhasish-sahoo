@@ -747,6 +747,9 @@
                                 <iframe class="embed-responsive-item" src="https://www.google.com/maps/place/India/@20.7707739,73.7217954,5z/data=!3m1!4b1!4m5!3m4!1s0x30635ff06b92b791:0xd78c4fa1854213a6!8m2!3d20.593684!4d78.96288" allowfullscreen="yes"></iframe>
                             </div>
                         </div>
+                        <br/>
+                        <br/>
+                        <center><p style="align:center;">Copyright &copy; <?php echo date('Y'); ?> <strong>Subhasish Sahoo - Multi Millionaire Mind</strong>. Drafted with <i class="fa fa-heart" style="color: #ff0000;"></i> by <a href="https://www.drafticode.com/" title="Drafticode" target="_blank">Drafticode</a></p></center>
                     </div>
                 </div>
             </div>
