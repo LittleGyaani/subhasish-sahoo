@@ -73,22 +73,16 @@
                         <span>About Me</span>
                     </a>
                 </li>
-                <li data-menuanchor="services">
-                    <a class="nav-link" href="#services">
-                        <i class="ti-panel"></i>
-                        <span>Services</span>
-                    </a>
-                </li>
-                <li data-menuanchor="work">
-                    <a class="nav-link" href="#work">
+                <li data-menuanchor="what-i-do">
+                    <a class="nav-link" href="#what-i-do">
                         <i class="ti-bookmark-alt"></i>
-                        <span>Portfolio</span>
+                        <span>What I Do?</span>
                     </a>
                 </li>
-                <li data-menuanchor="blog">
-                    <a class="nav-link" href="#blog">
+                <li data-menuanchor="profile">
+                    <a class="nav-link" href="#profile">
                         <i class="ti-layout-media-overlay-alt-2"></i>
-                        <span>Blogs</span>
+                        <span>Gallery</span>
                     </a>
                 </li>
                 <li data-menuanchor="contactus">
@@ -125,9 +119,6 @@
                                 <h4 class="font-alt px-btn-theme"><b><i>‘Think & Grow Rich’, Forex Trading is the New Avenue to Explore!</i></b></h4>
                                 <br>
                                 <p>Following this philosophy to the core, <b>“Subhasish Sahoo”</b> envisions to promulgate Forex Trading Knowledge via courses like Forex signals, bank trading course, account management, etc. for people who are interested in trading. Subhasish is a professional Forex trader and an expert in fund management. </p>
-                                <div class="btn-bar">
-                                    <a class="px-btn px-btn-theme" href="#">Download Profile</a>
-                                </div>
                             </div>
                         </div>
                         <div class="col-lg-6">
@@ -193,7 +184,7 @@
                                 </div>
                                 <div class="btn-bar">
                                     <a class="px-btn px-btn-theme" href="#"><span>Contact Me</span></a>
-                                    <a class="px-btn px-btn-theme" href="#"><span>Portfolio</span></a>
+                                    <a class="px-btn px-btn-theme" href="#"><span>Download Profile</span></a>
                                 </div>
                             </div>
                         </div>
@@ -329,8 +320,8 @@
             </div>
         </section>
         <!-- End about us -->
-        <!-- Services -->
-        <section id="services" data-nav-tooltip="Services" class="pp-section pp-scrollable section">
+        <!-- What I Do? -->
+        <section id="what-i-do" data-nav-tooltip="Services" class="pp-section pp-scrollable section">
             <div class="container">
                 <div class="title">
                     <h3>What I am passionate about?</h3>
@@ -371,31 +362,31 @@
                 <div class="owl-carousel" data-items="2" data-nav-dots="true" data-md-items="2" data-sm-items="1" data-xs-items="1" data-xx-items="1" data-space="30" data-autoplay="true">
                     <div class="testimonial-01 media">
                         <div class="avatar">
-                            <img src="https://www.vippng.com/png/detail/202-2026524_person-icon-default-user-icon-png.png" title="" alt="">
+                            <img src="static/img/testimonials/sushri.jpeg" title="" alt="">
                         </div>
                         <div class="media-body">
-                            <p>For your great support and mentor.  I really appreciate your kindness. I have made a small investment in forex, I was really nervous. Later on, in your guidance from the last 2 years I made huge profits. I just wanted to write to let you know how much I appreciate the positive influence you've had on my life. You inspired me during a difficult time when I needed words of encouragement. You don’t even know how much your help meant to me. Words cannot express how grateful I am for your help. You were there for me when I needed it the most.</p>
+                            <p>For your great support and mentor. I really appreciate your kindness. I have made a small investment in forex, I was really nervous. Later on, in your guidance from the last 2 years I made huge profits.</p>
                             <h6>Susri</h6>
                             <span>Full-time Forex Trader</span>
                         </div>
                     </div>
                     <div class="testimonial-01 media">
                         <div class="avatar">
-                            <img src="https://www.vippng.com/png/detail/202-2026524_person-icon-default-user-icon-png.png" title="" alt="">
+                            <img src="static/img/testimonials/bijay.jpeg" title="" alt="">
                         </div>
                         <div class="media-body">
-                            <p>I personally found Forex trade to be a wise investment of money. I got to know from one of my friends who has more than three years of experience in trading with Forex . In the beginning, it was a little tough to understand and get through the process as I was completely new into forex. Thanks to Subashish for making me understand and clarifying each and every doubt and providing all kinds of guidance and knowledge on forex. He is a very  talented and practical guy who shares  his trading experience.</p>
+                            <p>I personally found Forex trade to be a wise investment of money. I got to know from one of my friends who has more than three years of experience in trading with Forex.</p>
                             <h6>Bijya</h6>
                             <span>Full-time Forex Trader</span>
                         </div>
                     </div>
                     <div class="testimonial-01 media">
                         <div class="avatar">
-                            <img src="https://www.vippng.com/png/detail/202-2026524_person-icon-default-user-icon-png.png" title="" alt="">
+                            <img src="static/img/testimonials/pradyumna.jpeg" title="" alt="">
                         </div>
                         <div class="media-body">
-                            <p>I am now working as a Banker in a Nationalised Bank ,but way back in 2015 I met Subhasish in a network marketing event at Bhubaneswar,since then we have been working in different network marketing companies and had also been successful but then due to some personal reasons I switched to job where I am now a Banker but Subhasish has always been wanted to been an entrepreneur so he never gave up n always tried to invest in diversified sector, recently from last 3 year he is being doing FOREX full time and being making good profit from it so I have also invested with him from last 10months he has been giving me good profit out of my investment every month ,I am very happy for him as well as for myself for choosing this profile after a gap of 2 years from network marketing and I have been making good money from last 10 months . Thanks to Subhasish for showing me the real Forex trading business.</p>
-                            <h6>Pradyamna</h6>
+                            <p>I am now a Banker but Subhasish has always been wanted to been an entrepreneur so he never gave up n always tried to invest in diversified sector.</p>
+                            <h6>Pradyumna</h6>
                             <span>Banker & Forex Trader</span>
                         </div>
                     </div>
@@ -404,7 +395,7 @@
                             <img src="https://www.vippng.com/png/detail/202-2026524_person-icon-default-user-icon-png.png" title="" alt="">
                         </div>
                         <div class="media-body">
-                            <p>You are a good person & mentor too. You have helped me a lot. When I had nothing. You helped me a lot. I invested very little. After that I made a lot of profit When no one was helping me. You hoped that you taught me how to trade and then I made a profit. Right now I am making a very good income. Thanks a lot Subhasish sir... </p>
+                            <p>You are a good person & mentor too. You have helped me a lot. When I had nothing. You helped me a lot.</p>
                             <h6>Shweta</h6>
                             <span>Part-time Forex Trader</span>
                         </div>
@@ -413,179 +404,213 @@
             </div>
         </section>
         <!-- End Services -->
-        <!-- Portfolio -->
-        <!-- <section id="work" data-nav-tooltip="Work" class="pp-section pp-scrollable section dark-bg">
+        <!-- Gallery -->
+        <section id="profile" data-nav-tooltip="Gallery" class="pp-section pp-scrollable section dark-bg">
             <div class="container">
                 <div class="title">
-                    <h3>My Portfolio.</h3>
+                    <h3>My Gallery.</h3>
                 </div>
                 <div class="portfolio-filter-01">
                     <ul class="filter nav">
                         <li class="active" data-filter="*">All</li>
-                        <li data-filter=".branding">Branding</li>
-                        <li data-filter=".photoshop">Photoshop</li>
-                        <li data-filter=".fashion">Fashion</li>
-                        <li data-filter=".product">Product</li>
+                        <li data-filter=".gym">Gym</li>
+                        <li data-filter=".travel">Travel</li>
+                        <li data-filter=".business">Business Tours</li>
+                        <li data-filter=".vacations">Vacations</li>
                     </ul>
                 </div> 
                 <!-- Portfolio Filter -->
-                <!-- <div class="portfolio-content grid-gutter-lg grid-col-3 lightbox-gallery">
-                    <div class="grid-item product branding fashion">
+                <div class="portfolio-content grid-gutter-lg grid-col-3 lightbox-gallery">
+                    <div class="grid-item product gym">
                         <div class="portfolio-box-01">
                             <div class="portfolio-info">
-                                <h5 class="white-color font-weight-bold">Momb ios App</h5>
-                                <span>Broadcasting ios App</span>
+                                <h5 class="white-color font-weight-bold">Fitness</h5>
+                                <span>GYM</span>
                             </div>
                             <div class="portfolio-img">
-                                <img src="static/img/m-portfolio-1.jpg" title="" alt="">
+                                <img src="static/img/gallery/gallery-1.jpg" title="" alt="">
                                 <div class="portfolio-icon">
-                                    <a href="static/img/m-portfolio-1.jpg" class="gallery-link">
+                                    <a href="static/img/gallery/gallery-1.jpg" class="gallery-link">
                                         <span class="ti-plus"></span>
                                     </a>
                                 </div>
                             </div>
                         </div>
-                    </div> -->
+                    </div>
                      <!-- grid item -->
-                    <!-- <div class="grid-item photoshop">
+                    <div class="grid-item gym">
                         <div class="portfolio-box-01">
                             <div class="portfolio-info">
-                                <h5 class="white-color font-weight-bold">Momb ios App</h5>
-                                <span>Broadcasting ios App</span>
+                                <h5 class="white-color font-weight-bold">Fitness</h5>
+                                <span>GYM</span>
                             </div>
                             <div class="portfolio-img">
-                                <img src="static/img/m-portfolio-2.jpg" title="" alt="">
+                                <img src="static/img/gallery/gallery-2.jpg" title="" alt="">
                                 <div class="portfolio-icon">
-                                    <a href="static/img/m-portfolio-2.jpg" class="gallery-link">
+                                    <a href="static/img/gallery/gallery-2.jpg" class="gallery-link">
                                         <span class="ti-plus"></span>
                                     </a>
                                 </div>
                             </div>
                         </div>
-                    </div>  -->
+                    </div> 
                     <!-- grid item -->
-                    <!-- <div class="grid-item product branding">
+                    <div class="grid-item gym">
                         <div class="portfolio-box-01">
                             <div class="portfolio-info">
-                                <h5 class="white-color font-weight-bold">Momb ios App</h5>
-                                <span>Broadcasting ios App</span>
+                                <h5 class="white-color font-weight-bold">Fitness</h5>
+                                <span>GYM</span>
                             </div>
                             <div class="portfolio-img">
-                                <img src="static/img/m-portfolio-3.jpg" title="" alt="">
+                                <img src="static/img/gallery/gallery-3.jpg" title="" alt="">
                                 <div class="portfolio-icon">
-                                    <a href="static/img/m-portfolio-3.jpg" class="gallery-link">
+                                    <a href="static/img/gallery/gallery-3.jpg" class="gallery-link">
                                         <span class="ti-plus"></span>
                                     </a>
                                 </div>
                             </div>
                         </div>
-                    </div>  -->
+                    </div> 
                     <!-- grid item -->
-                    <!-- <div class="grid-item product photoshop">
+                    <div class="grid-item business">
                         <div class="portfolio-box-01">
                             <div class="portfolio-info">
-                                <h5 class="white-color font-weight-bold">Momb ios App</h5>
-                                <span>Broadcasting ios App</span>
+                                <h5 class="white-color font-weight-bold">Business</h5>
+                                <span>Profile</span>
                             </div>
                             <div class="portfolio-img">
-                                <img src="static/img/m-portfolio-5.jpg" title="" alt="">
+                                <img src="static/img/gallery/gallery-4.jpg" title="" alt="">
                                 <div class="portfolio-icon">
-                                    <a href="static/img/m-portfolio-5.jpg" class="gallery-link">
+                                    <a href="static/img/gallery/gallery-4.jpg" class="gallery-link">
                                         <span class="ti-plus"></span>
                                     </a>
                                 </div>
                             </div>
                         </div>
-                    </div>  -->
+                    </div> 
                     <!-- grid item -->
-                    <!-- <div class="grid-item branding">
+                    <div class="grid-item business">
                         <div class="portfolio-box-01">
                             <div class="portfolio-info">
-                                <h5 class="white-color font-weight-bold">Momb ios App</h5>
-                                <span>Broadcasting ios App</span>
+                                <h5 class="white-color font-weight-bold">Business</h5>
+                                <span>Profile</span>
                             </div>
                             <div class="portfolio-img">
-                                <img src="static/img/m-portfolio-4.jpg" title="" alt="">
+                                <img src="static/img/gallery/gallery-5.jpg" title="" alt="">
                                 <div class="portfolio-icon">
-                                    <a href="static/img/m-portfolio-4.jpg" class="gallery-link">
+                                    <a href="static/img/gallery/gallery-5.jpg" class="gallery-link">
                                         <span class="ti-plus"></span>
                                     </a>
                                 </div>
                             </div>
                         </div>
-                    </div>  -->
+                    </div> 
                     <!-- grid item -->
-                    <!-- <div class="grid-item product photoshop">
+                    <div class="grid-item product business">
                         <div class="portfolio-box-01">
                             <div class="portfolio-info">
-                                <h5 class="white-color font-weight-bold">Momb ios App</h5>
-                                <span>Broadcasting ios App</span>
+                                <h5 class="white-color font-weight-bold">Business</h5>
+                                <span>Tour</span>
                             </div>
                             <div class="portfolio-img">
-                                <img src="static/img/m-portfolio-6.jpg" title="" alt="">
+                                <img src="static/img/gallery/gallery-6.jpg" title="" alt="">
                                 <div class="portfolio-icon">
-                                    <a href="static/img/m-portfolio-6.jpg" class="gallery-link">
+                                    <a href="static/img/gallery/gallery-6.jpg" class="gallery-link">
                                         <span class="ti-plus"></span>
                                     </a>
                                 </div>
                             </div>
                         </div>
-                    </div>  -->
+                    </div> 
                     <!-- grid item -->
-                    <!-- <div class="grid-item fashion">
+                    <div class="grid-item business">
                         <div class="portfolio-box-01">
                             <div class="portfolio-info">
-                                <h5 class="white-color font-weight-bold">Momb ios App</h5>
-                                <span>Broadcasting ios App</span>
+                                <h5 class="white-color font-weight-bold">Business</h5>
+                                <span>Tour</span>
                             </div>
                             <div class="portfolio-img">
-                                <img src="static/img/m-portfolio-7.jpg" title="" alt="">
+                                <img src="static/img/gallery/gallery-8.jpg" title="" alt="">
                                 <div class="portfolio-icon">
-                                    <a href="static/img/m-portfolio-7.jpg" class="gallery-link">
+                                    <a href="static/img/gallery/gallery-8.jpg" class="gallery-link">
                                         <span class="ti-plus"></span>
                                     </a>
                                 </div>
                             </div>
                         </div>
-                    </div>  -->
+                    </div> 
                     <!-- grid item -->
-                    <!-- <div class="grid-item product branding">
+                    <div class="grid-item vacations">
                         <div class="portfolio-box-01">
                             <div class="portfolio-info">
-                                <h5 class="white-color font-weight-bold">Momb ios App</h5>
-                                <span>Broadcasting ios App</span>
+                                <h5 class="white-color font-weight-bold">Holiday</h5>
+                                <span>Vacations</span>
                             </div>
                             <div class="portfolio-img">
-                                <img src="static/img/m-portfolio-8.jpg" title="" alt="">
+                                <img src="static/img/gallery/gallery-10.jpg" title="" alt="">
                                 <div class="portfolio-icon">
-                                    <a href="static/img/m-portfolio-8.jpg" class="gallery-link">
+                                    <a href="static/img/gallery/gallery-10.jpg" class="gallery-link">
                                         <span class="ti-plus"></span>
                                     </a>
                                 </div>
                             </div>
                         </div>
-                    </div>  -->
+                    </div> 
                     <!-- grid item -->
-                    <!-- <div class="grid-item fashion">
+                    <div class="grid-item vacations">
                         <div class="portfolio-box-01">
                             <div class="portfolio-info">
-                                <h5 class="white-color font-weight-bold">Momb ios App</h5>
-                                <span>Broadcasting ios App</span>
+                                <h5 class="white-color font-weight-bold">Holiday</h5>
+                                <span>Vacations</span>
                             </div>
                             <div class="portfolio-img">
-                                <img src="static/img/m-portfolio-9.jpg" title="" alt="">
+                                <img src="static/img/gallery/gallery-21.jpg" title="" alt="">
                                 <div class="portfolio-icon">
-                                    <a href="static/img/m-portfolio-9.jpg" class="gallery-link">
+                                    <a href="static/img/gallery/gallery-21.jpg" class="gallery-link">
                                         <span class="ti-plus"></span>
                                     </a>
                                 </div>
                             </div>
                         </div>
-                    </div>  -->
+                    </div> 
                     <!-- grid item -->
-                <!-- </div>
+                    <div class="grid-item vacations">
+                        <div class="portfolio-box-01">
+                            <div class="portfolio-info">
+                                <h5 class="white-color font-weight-bold">Holiday</h5>
+                                <span>Vacations</span>
+                            </div>
+                            <div class="portfolio-img">
+                                <img src="static/img/gallery/gallery-26.jpg" title="" alt="">
+                                <div class="portfolio-icon">
+                                    <a href="static/img/gallery/gallery-26.jpg" class="gallery-link">
+                                        <span class="ti-plus"></span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div> 
+                    <!-- grid item -->
+                    <div class="grid-item vacations">
+                        <div class="portfolio-box-01">
+                            <div class="portfolio-info">
+                                <h5 class="white-color font-weight-bold">Holiday</h5>
+                                <span>Vacations</span>
+                            </div>
+                            <div class="portfolio-img">
+                                <img src="static/img/gallery/gallery-28.jpg" title="" alt="">
+                                <div class="portfolio-icon">
+                                    <a href="static/img/gallery/gallery-28.jpg" class="gallery-link">
+                                        <span class="ti-plus"></span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div> 
+                    <!-- grid item -->
+                </div>
             </div>
-        </section> -->
+        </section>
         <!-- End Portfolio -->
         <!-- Blog -->
        <!-- <section id="blog" data-nav-tooltip="Blog" class="pp-section pp-scrollable section">
@@ -667,15 +692,15 @@
                             <ul>
                                 <li class="media">
                                     <i class="ti-map"></i>
-                                    <span class="media-body">India</span>
+                                    <span class="media-body"> India</span>
                                 </li>
                                 <li class="media">
                                     <i class="ti-email"></i>
-                                    <span class="media-body">support@subhasishsahoo.com</span>
+                                    <span class="media-body"> support@subhasishsahoo.com</span>
                                 </li>
                                 <li class="media">
                                     <i class="ti-mobile"></i>
-                                    <span class="media-body">+91 XXX XXX XXXX</span>
+                                    <span class="media-body"> +91 XXX XXX XXXX</span>
                                 </li>
                             </ul>
                         </div>
