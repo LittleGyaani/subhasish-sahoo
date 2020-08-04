@@ -24,21 +24,28 @@ $sender_message = $_POST['message'];
 $mail = new PHPMailer(true); //Argument true in constructor enables exceptions
 
 //Enable SMTP debugging.
-$mail->SMTPDebug = SMTP::DEBUG_CONNECTION;                               
+$mail->SMTPDebug = SMTP::DEBUG_OFF;                               
 //Set PHPMailer to use SMTP.
 $mail->isSMTP();            
 //Set SMTP host name                          
 $mail->Host = "mail.subhasishsahoo.com";
 //Set this to true if SMTP host requires authentication to send email
-$mail->SMTPAuth = true;                          
+$mail->SMTPAuth = true;      
+$mail->SMTPOptions = array(
+    'ssl' => array(
+    'verify_peer' => false,
+    'verify_peer_name' => false,
+    'allow_self_signed' => true
+    )
+);                    
 //Provide username and password     
 $mail->Username = "contact@subhasishsahoo.com";                 
-$mail->Password = "Ck6r^0v8";                           
+$mail->Password = "Ck6r^0v8";
 $mail->SMTPAutoTLS = false;
 // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` encouraged
-$mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;         
+$mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;         
 //Set TCP port to connect to
-$mail->Port = 587;
+$mail->Port = 465;
 
 //From email address and name
 $mail->From = "$sender_email";
@@ -49,7 +56,7 @@ $mail->addAddress("$sender_email", "$sender_name");
 // $mail->addAddress("recepient1@example.com"); //Recipient name is optional
 
 //Address to which recipient will reply
-$mail->addReplyTo("support@subhasishsahoo.com", "Subhasish Sahoo - Support Center");
+$mail->addReplyTo("contact@subhasishsahoo.com", "Subhasish Sahoo - Support Center");
 
 //CC and BCC
 // $mail->addCC("cc@example.com");
