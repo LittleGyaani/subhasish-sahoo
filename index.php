@@ -57,7 +57,7 @@
                     <div class="img">
                         <img src="static/img/about-me-intro.png" title="Subhasish Sahoo" alt="Subhasish Sahoo">
                     </div>
-                    <img src="static/img/SS-logo.png" title="Subhasish Sahoo" alt="Subhasish Sahoo"/>
+                    <img src="static/img/ss-logo.png" title="Subhasish Sahoo" alt="Subhasish Sahoo"/>
                 </div>
             </div>
             <ul class="nav nav-menu" id="pp-menu">
@@ -269,7 +269,7 @@
                         <div class="row">
                             <div class="col-sm-3 col-md-3 col-xl-2">
                                 <div class="rb-left">
-                                    <img src="https://fxpay.io/images/ico-mirrortrading.png" title="" alt="">
+                                    <img src="static/img/ico-mirrortrading.png" title="" alt="">
                                 </div>
                             </div>
                             <div class="col-sm-9 col-md-9 col-xl-10">
@@ -286,7 +286,7 @@
                         <div class="row">
                             <div class="col-sm-3 col-md-3 col-xl-2">
                                 <div class="rb-left">
-                                    <img src="https://fxpay.io/images/ico-premuimbroker.png" title="" alt="">
+                                    <img src="static/img/ico-premuimbroker.png" title="" alt="">
                                 </div>
                             </div>
                             <div class="col-sm-9 col-md-9 col-xl-10">
@@ -303,7 +303,7 @@
                         <div class="row">
                             <div class="col-sm-3 col-md-3 col-xl-2">
                                 <div class="rb-left">
-                                    <img src="https://fxpay.io/images/ico-market.png" title="" alt="">
+                                    <img src="static/img/ico-market.png" title="" alt="">
                                 </div>
                             </div>
                             <div class="col-sm-9 col-md-9 col-xl-10">
@@ -428,9 +428,9 @@
                                 <span>GYM</span>
                             </div>
                             <div class="portfolio-img">
-                                <img src="static/img/gallery/gallery-1.jpg" title="" alt="">
+                                <img src="static/img/gallery/Gallery-1.jpg" title="" alt="">
                                 <div class="portfolio-icon">
-                                    <a href="static/img/gallery/gallery-1.jpg" class="gallery-link">
+                                    <a href="static/img/gallery/Gallery-1.jpg" class="Gallery-link">
                                         <span class="ti-plus"></span>
                                     </a>
                                 </div>
@@ -445,9 +445,9 @@
                                 <span>GYM</span>
                             </div>
                             <div class="portfolio-img">
-                                <img src="static/img/gallery/gallery-2.jpg" title="" alt="">
+                                <img src="static/img/gallery/Gallery-2.jpg" title="" alt="">
                                 <div class="portfolio-icon">
-                                    <a href="static/img/gallery/gallery-2.jpg" class="gallery-link">
+                                    <a href="static/img/gallery/Gallery-2.jpg" class="Gallery-link">
                                         <span class="ti-plus"></span>
                                     </a>
                                 </div>
@@ -462,9 +462,9 @@
                                 <span>GYM</span>
                             </div>
                             <div class="portfolio-img">
-                                <img src="static/img/gallery/gallery-3.jpg" title="" alt="">
+                                <img src="static/img/gallery/Gallery-3.jpg" title="" alt="">
                                 <div class="portfolio-icon">
-                                    <a href="static/img/gallery/gallery-3.jpg" class="gallery-link">
+                                    <a href="static/img/gallery/Gallery-3.jpg" class="Gallery-link">
                                         <span class="ti-plus"></span>
                                     </a>
                                 </div>
@@ -479,9 +479,9 @@
                                 <span>Profile</span>
                             </div>
                             <div class="portfolio-img">
-                                <img src="static/img/gallery/gallery-4.jpg" title="" alt="">
+                                <img src="static/img/gallery/Gallery-4.jpg" title="" alt="">
                                 <div class="portfolio-icon">
-                                    <a href="static/img/gallery/gallery-4.jpg" class="gallery-link">
+                                    <a href="static/img/gallery/Gallery-4.jpg" class="Gallery-link">
                                         <span class="ti-plus"></span>
                                     </a>
                                 </div>
@@ -496,9 +496,9 @@
                                 <span>Profile</span>
                             </div>
                             <div class="portfolio-img">
-                                <img src="static/img/gallery/gallery-5.jpg" title="" alt="">
+                                <img src="static/img/gallery/Gallery-5.jpg" title="" alt="">
                                 <div class="portfolio-icon">
-                                    <a href="static/img/gallery/gallery-5.jpg" class="gallery-link">
+                                    <a href="static/img/gallery/Gallery-5.jpg" class="Gallery-link">
                                         <span class="ti-plus"></span>
                                     </a>
                                 </div>
@@ -513,9 +513,9 @@
                                 <span>Tour</span>
                             </div>
                             <div class="portfolio-img">
-                                <img src="static/img/gallery/gallery-6.jpg" title="" alt="">
+                                <img src="static/img/gallery/Gallery-6.jpg" title="" alt="">
                                 <div class="portfolio-icon">
-                                    <a href="static/img/gallery/gallery-6.jpg" class="gallery-link">
+                                    <a href="static/img/gallery/Gallery-6.jpg" class="Gallery-link">
                                         <span class="ti-plus"></span>
                                     </a>
                                 </div>
@@ -530,9 +530,9 @@
                                 <span>Tour</span>
                             </div>
                             <div class="portfolio-img">
-                                <img src="static/img/gallery/gallery-8.jpg" title="" alt="">
+                                <img src="static/img/gallery/Gallery-8.jpg" title="" alt="">
                                 <div class="portfolio-icon">
-                                    <a href="static/img/gallery/gallery-8.jpg" class="gallery-link">
+                                    <a href="static/img/gallery/Gallery-8.jpg" class="Gallery-link">
                                         <span class="ti-plus"></span>
                                     </a>
                                 </div>
@@ -547,9 +547,9 @@
                                 <span>Vacations</span>
                             </div>
                             <div class="portfolio-img">
-                                <img src="static/img/gallery/gallery-10.jpg" title="" alt="">
+                                <img src="static/img/gallery/Gallery-10.jpg" title="" alt="">
                                 <div class="portfolio-icon">
-                                    <a href="static/img/gallery/gallery-10.jpg" class="gallery-link">
+                                    <a href="static/img/gallery/Gallery-10.jpg" class="Gallery-link">
                                         <span class="ti-plus"></span>
                                     </a>
                                 </div>
@@ -564,9 +564,9 @@
                                 <span>Vacations</span>
                             </div>
                             <div class="portfolio-img">
-                                <img src="static/img/gallery/gallery-21.jpg" title="" alt="">
+                                <img src="static/img/gallery/Gallery-21.jpg" title="" alt="">
                                 <div class="portfolio-icon">
-                                    <a href="static/img/gallery/gallery-21.jpg" class="gallery-link">
+                                    <a href="static/img/gallery/Gallery-21.jpg" class="Gallery-link">
                                         <span class="ti-plus"></span>
                                     </a>
                                 </div>
@@ -581,9 +581,9 @@
                                 <span>Vacations</span>
                             </div>
                             <div class="portfolio-img">
-                                <img src="static/img/gallery/gallery-26.jpg" title="" alt="">
+                                <img src="static/img/gallery/Gallery-26.jpg" title="" alt="">
                                 <div class="portfolio-icon">
-                                    <a href="static/img/gallery/gallery-26.jpg" class="gallery-link">
+                                    <a href="static/img/gallery/Gallery-26.jpg" class="Gallery-link">
                                         <span class="ti-plus"></span>
                                     </a>
                                 </div>
@@ -598,9 +598,9 @@
                                 <span>Vacations</span>
                             </div>
                             <div class="portfolio-img">
-                                <img src="static/img/gallery/gallery-28.jpg" title="" alt="">
+                                <img src="static/img/gallery/Gallery-28.jpg" title="" alt="">
                                 <div class="portfolio-icon">
-                                    <a href="static/img/gallery/gallery-28.jpg" class="gallery-link">
+                                    <a href="static/img/gallery/Gallery-28.jpg" class="Gallery-link">
                                         <span class="ti-plus"></span>
                                     </a>
                                 </div>
