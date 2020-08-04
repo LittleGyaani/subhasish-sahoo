@@ -291,9 +291,9 @@
                             <div class="col-sm-9 col-md-9 col-xl-10">
                                 <div class="rb-right">
                                     <h6>Forex Trading Signal Training</h6>
-                                    <label>WeLab | Remote | Jan 2019 - Present</label>
+                                    <label>FXTrade | Remote | Jan 2019 - Present</label>
                                     <div class="rb-time">Full Time</div>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.</p>
+                                    <p>While figuring out his capabilities, Subhasish invested in a few of the online programs for starters. Although, it didn’t prove to be an eventful beginning. ‘Failure leads to Success,’ and with this attitude, he started gaining knowledge about online marketing. This was the event where his fate entangled with Forex for the first time. The idea of Forex seemed pretty interesting to subhasish, and so he fared on the journey towards forex trading.</p>
                                 </div>
                             </div>
                         </div>
@@ -308,9 +308,9 @@
                             <div class="col-sm-9 col-md-9 col-xl-10">
                                 <div class="rb-right">
                                     <h6>Asset Management Services</h6>
-                                    <label>WeLab | Remote | Jan 2019 - Present</label>
+                                    <label>AssetMGMT | Remote | Jan 2019 - Present</label>
                                     <div class="rb-time">Full Time</div>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.</p>
+                                    <p>Initially, Subhasish invested in smaller sums, where he kept losing money. This didn’t falter his zeal to invest more and sustain losses. He then realized that relevant knowledge is necessary to survive in the forex trading market. “As we all know knowledge is power, I deduced the challenge in my trading practices and took corrective measures,” says Subhasish. This time when he invested with a more significant amount, heaven’s divine power was with him, and he secured a considerable amount of profit.</p>
                                 </div>
                             </div>
                         </div>
@@ -325,9 +325,9 @@
                             <div class="col-sm-9 col-md-9 col-xl-10">
                                 <div class="rb-right">
                                     <h6>Forex Trader</h6>
-                                    <label>WeLab | Remote | Jan 2019 - Present</label>
+                                    <label>FXTrade | Remote | Jan 2019 - Present</label>
                                     <div class="rb-time">Full Time</div>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.</p>
+                                    <p>In three months, Subhasish gained $700 of profit with zero risks, and that’s where his paths changed towards becoming a prominent name in the Forex trading market. He shifted to Bangkok in 2018 to accomplish his desired milestones, and then his career endeavours started in 2019 with a huge profit mark-up of $200,000.</p>
                                 </div>
                             </div>
                         </div>
