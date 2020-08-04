@@ -98,11 +98,11 @@
             </ul>
         </div>
         <div class="nav justify-content-center social-icons">
-            <a href="#"><i class="fab fa-facebook-f"></i></a>
-            <a href="#"><i class="fab fa-twitter"></i></a>
-            <a href="#"><i class="fab fa-instagram"></i></a>
-            <a href="#"><i class="fab fa-linkedin-in"></i></a>
-            <a href="#"><i class="fab fa-pinterest"></i></a>
+            <a href="https://www.facebook.com/subhasish.sahoo.14" target="_blank"><i class="fab fa-facebook-f"></i></a>
+            <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>
+            <a href="https://instagram.com/subhasish01" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a href="#"><i class="fab fa-linkedin-in" target="_blank"></i></a>
+            <a href="https://t.me/joinchat/AAAAAEjAJwUb7_4JkWR11A" target="_blank"><i class="fab fa-telegram"></i></a>
         </div>
     </header>
     <!-- End nav bar -->
@@ -704,7 +704,7 @@
                                 </li>
                                 <li class="media">
                                     <i class="ti-mobile"></i>
-                                    <span class="media-body"> +91 XXX XXX XXXX</span>
+                                    <span class="media-body"> +91 97762 44402</span>
                                 </li>
                             </ul>
                         </div>
